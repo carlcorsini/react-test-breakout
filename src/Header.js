@@ -8,7 +8,6 @@ class Header extends Component {
   }
 
   render() {
-    console.log(this.state)
     return (
       <div>
         <header className="App-header">
